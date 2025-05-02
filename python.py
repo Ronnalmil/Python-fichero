@@ -1,4 +1,4 @@
-#
+#adivina el número secreto probar en el ordenador.
 
 import random
 
