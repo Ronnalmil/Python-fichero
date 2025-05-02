@@ -13,3 +13,14 @@ if 1 <= n <=10:
    for i in range (1,10):
      fichero.write(str(i)+'x'+str(n)+ '=' + str(i*n)+ '\n') 
    fichero.close()
+------------------- 
+n=int(input("ingrese un numero 1-10"))
+
+if n<1 or n>10: 
+     print ("error")
+else
+---‐----------------------------------
+
+chatgpt 2 ejercicio
+ejercicio
+calculadora
